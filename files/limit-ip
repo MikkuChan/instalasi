@@ -53,7 +53,7 @@ function vlip(){
 echo -n > /var/log/xray/access.log
 sleep 1
 data=( `ls /etc/kyt/limit/vless/ip`);
-#Decrypted By YADDY D PHREAKER
+#Decrypted By Fadzdigital
     for user in "${data[@]}"
     do
         iplimit=$(cat /etc/kyt/limit/vless/ip/$user)
