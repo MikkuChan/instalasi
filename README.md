@@ -2,7 +2,10 @@
 
 ![MikkuChan](https://raw.githubusercontent.com/fadzdigital/Nekobox/refs/heads/main/images/favicon.png)
 
-Script ini adalah alat bantu untuk memeriksa status akun VMESS Anda, termasuk informasi *username*, *login terakhir*, *kuota penggunaan*, *limit kuota*, *limit IP*, dan *IP login*. Didesain untuk memberikan informasi yang jelas dan ringkas, memudahkan Anda dalam memantau dan mengelola akun VMESS Anda.
+# Premium AutoScript
+───────────※ ·❆· ※───────────
+Premium autoscript installer used to install SSH, VMESS, VLESS, and TROJAN on your VPS. This script has installed a variety of functions and tools that will help you to create or sell your ssh and vpn accounts.
+───────────※ ·❆· ※───────────
 
 ## Fitur Utama
 
