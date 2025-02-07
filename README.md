@@ -18,6 +18,7 @@ Premium autoscript installer used to install SSH, VMESS, VLESS, and TROJAN on yo
 *   **Penghapusan IP Efisien:** Menggunakan `comm` untuk memproses daftar IP dengan performa tinggi.
 *   **Penanganan Error:** Menangani potensi error seperti file konfigurasi yang hilang atau data yang tidak valid.
 *   **Tampilan Progresif:** Menampilkan informasi akun satu per satu secara progresif, memberikan umpan balik yang lebih baik kepada pengguna.
+
 ─────────────※ ·❆· ※─────────────
 
 ## Instalasi
