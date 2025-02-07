@@ -1,6 +1,6 @@
 # Autoscript Vpn
 
-[![MikkuChan](https://i.pinimg.com/560x/99/a9/9a/99a99a7719c894294522921936c64147.jpg)](https://i.pinimg.com/560x/99/a9/9a/99a99a7719c894294522921936c64147.jpg)
+[![MikkuChan](https://raw.githubusercontent.com/fadzdigital/Nekobox/refs/heads/main/images/favicon.png)
 
 Script ini adalah alat bantu untuk memeriksa status akun VMESS Anda, termasuk informasi *username*, *login terakhir*, *kuota penggunaan*, *limit kuota*, *limit IP*, dan *IP login*. Didesain untuk memberikan informasi yang jelas dan ringkas, memudahkan Anda dalam memantau dan mengelola akun VMESS Anda.
 
